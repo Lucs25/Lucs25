@@ -1,8 +1,7 @@
 👋 Olá, eu sou Lucas!!!
 
-- 🔭 Atualmente pretendo trabalhar com front-end
+- 🔭 Atualmente estudando para atuar como front-end
 - 🌱 Irei continuar me aprimorando cada vez mais, para acompanhar as novas tecnologias que surgem no mercado
-- 😄 Pronouns: Ele
 
 <div align="center">
   <a href="https://github.com/Lucs25">
