@@ -1,4 +1,4 @@
-👋 Olá, eu sou Lucas!!!
+ Olá, eu sou Lucas!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 - 🔭 Atualmente estudando para atuar como front-end
 - 🌱 Irei continuar me aprimorando cada vez mais, para acompanhar as novas tecnologias que surgem no mercado
