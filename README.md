@@ -7,7 +7,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left" >
-<a href="linkedin.com/in/lucas-raymundo-76230a79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas" height="40" width="40" /></a >
+<a href="https://www.linkedin.com/in/lucas-raymundo-76230a79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas" height="40" width="40" /></a >
 </p>
 
 <div align="center">
